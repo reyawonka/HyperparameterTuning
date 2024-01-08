@@ -3,8 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Lab on Hyperparameter Tuning</title>
-
 </head>
 <body>
 
