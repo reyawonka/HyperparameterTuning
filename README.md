@@ -4,11 +4,7 @@
 <html>
 <head>
 <title>Lab on Hyperparameter Tuning</title>
-<style>
-    body {font-family: Arial, sans-serif;}
-    .code {background-color: #f4f4f4; padding: 10px; border-left: 3px solid #007BFF; margin: 10px 0;}
-    h2 {color: #007BFF;}
-</style>
+
 </head>
 <body>
 
